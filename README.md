@@ -156,7 +156,7 @@ If you like this project please leave a
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and youtube for help
+I would like to thank Microverse and youtube for their help
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
